@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=om2007464" alt="om2007464" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omkalore2007" target="blank"><img src="https://img.shields.io/twitter/follow/omkalore2007?logo=twitter&style=for-the-badge" alt="omkalore2007" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/omkalore2007?logo=twitter&style=for-the-badge" alt="omkalore2007" /></a> </p>
 
 - 🔭 I’m currently working on **ZenMl Customer-Stisfication-Project**
 
