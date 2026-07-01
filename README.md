@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, CNN, NLP**
 
-- 📫 How to reach me **omkalore2007@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
